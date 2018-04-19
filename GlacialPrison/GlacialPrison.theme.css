@@ -18,12 +18,12 @@ IMPORTANT: Links must be HTTPS!
 /* ========== CUSTOMIZABLE VARIABLES ========== */
 :root {
     /* COLOURS */
-	--main-color: #2780e6;
-	--hover-color: #1f66b8;
+	--main-color: #32F7A9;
+	--hover-color: #2FC838;
 	--channel-color: #ccffff;
 	
     /* IMAGES */
-	--background-image: url(https://puu.sh/w1xZT/27dd03a07c.png);
+	--background-image: url(https://i.imgur.com/6f8vevM.jpg);
 	--dm-image: url(https://puu.sh/w1y3a/7e878418b3.gif);	
 	--profile-image: url(https://puu.sh/sAO0x/fdecb6c24b.png);
     --nsfw-image: url(https://puu.sh/zbsiF/9b67596e0e.png);
